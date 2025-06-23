@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on an AI Resume Screener with BERT, bias detection & Gmail outreach.<br>🤝 Open to Analytics, AI/ML & NLP collabs.<br>🙋 Need help with model tuning & UX improvements.<br>🌱 Learning SQL & Preparing for Oracle SQL Certification<br>💬 Ask me about data Analytics, R packages, or ML hacks.<br>⚡ Fun fact: I’ve mentored 300+ students in Python and Adobe!
+🔭 Working on an AI Resume Screener with BERT, bias detection & Gmail outreach.<br>🤝 Open to Analytics collabs.<br>🙋 Need help with Data Engineering and Science.<br>🌱 Learning SQL & Preparing for Oracle SQL Certification<br>💬 Ask me about data Analytics or R packages.<br>⚡ Fun fact: I’ve mentored 300+ students in Python and Adobe!
 
 
 ## 🌐 Socials:
